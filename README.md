@@ -1,6 +1,6 @@
 # Introduction
 Approximately 70% of data science problems involve classification and logistic regression is a common solution for binary problems. Logistic regression has many applications in data science, but in the world of healthcare, it can really drive life-changing action.
-Detected breast cancer by applying a logistic regression model on a real-world dataset and predict whether a tumor is benign (not breast cancer) or malignant (breast cancer) based off its characteristics.
+Detected breast cancer by applying a logistic regression model on a real-world dataset and predict whether a tumor is benign (not breast cancer) or malignant (breast cancer) based on its characteristics.
 
 # Independent Variables
 This is a logistic regression model to identify correlations between the following 9 independent variables and the class of the tumor (benign or malignant).
@@ -28,7 +28,7 @@ There are two class of the tumor: Benign (not breast cancer) represented as 2 or
 ##### 2. Splitting the dataset into a training set and test set
 The dataset was splitted using the test_train_split function imported from model_selection.
 
-Out of Approx. 700 instances, 20% were splitted into test set remaining 80% were kept to train the dataset called as X_train, y_train, X_test, y_test.
+Out of Approx. 700 instances, 20% were splitted into test set and remaining 80% were kept to train the dataset called as X_train, y_train, X_test, y_test.
     
 ### Part 2: Training and Inference
 ##### 1. Training the logistic regression model on the training set
