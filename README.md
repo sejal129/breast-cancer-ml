@@ -39,7 +39,7 @@ The trained classifier was used to predict the values in test set.
 
 ### Part 3: Evaluating the model
 ##### 1. Making the confusion matrix
-The confusion matrix was created to evaluate the model depicting the approx percentage of the correct predicted value comparing from the given tets values. 
+The confusion matrix was created to evaluate the model depicting the approx percentage of the correct predicted value comparing from the given test set values. 
 
 ##### 2. Computing the accuracy with k-fold cross-validation
 Calculated the Accuracy (96.70% approx) and Standard Deviation (1.97%).
